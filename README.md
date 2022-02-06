@@ -1,0 +1,1 @@
+Simple Example to use kafka for streaming model
